@@ -11,7 +11,7 @@ Users can select the genres they are interseted in and they will only get those 
 Users can save the stories the like.
 The application gets updated with new stories daily at 7.30 A.M.
 
-Technologies used.
+Technologies used\n
 Java
 FireBase
 MySQL
